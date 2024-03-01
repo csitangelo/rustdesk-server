@@ -5,7 +5,7 @@
   <a href="#how-to-create-a-keypair">Keypair</a> •
   <a href="#deb-packages">Debian</a> •
   <a href="#env-variables">Variables</a><br>
-  [<a href="README-DE.md">Deutsch</a>] | [<a href="README-NL.md">Nederlands</a>]<br>
+  [<a href="README-DE.md">Deutsch</a>] | [<a href="README-NL.md">Nederlands</a>] | [<a href="README-TW.md">繁體中文</a>]<br>
 </p>
 
 # RustDesk Server Program
@@ -33,6 +33,8 @@ Three executables will be generated in target/release.
 - rustdesk-utils - RustDesk CLI utilities
 
 You can find updated binaries on the [releases](https://github.com/rustdesk/rustdesk-server/releases) page.
+
+If you want extra features [RustDesk Server Pro](https://rustdesk.com/pricing.html) might suit you better.
 
 If you want to develop your own server, [rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) might be a better and simpler start for you than this repo.
 
